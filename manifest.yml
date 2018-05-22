@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: idemix-issuer-verifier
-  name: idemix-issuer-verifier
+  host: idemix-issuer-verifier-20180522064508311
+  name: idemix-issuer-verifier-20180522064508311
   path: .
   command: node app.js
   domain: mybluemix.net
